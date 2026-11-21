@@ -6,6 +6,8 @@
 
 ---
 
+- `videos/1_毛巾.md` 改名 `videos/1_2_越界的毛巾.md`（与 images 对齐），内容按拍卡重写：四拍各带时长/帧数、在场清单、镜头、验收句；一镜到底改按拍拆开跑再拼
+
 - 租户下分工作区：`quanttide-founder/workplace-romance/`（职场言情）、`quanttide-founder/rebirth-romance/`（重生言情）；README 租户约定同步
 
 - `workplace-romance/` 更名 `urban-romance/`（都市言情）；素材归位：重生开头图入 `rebirth-romance/images/`，其余图片与视频入 `urban-romance/`；租户约定同步
