@@ -6,6 +6,8 @@
 
 ---
 
+- 新增 `urban-romance/scripts/1_咖啡厅重逢.md`：第一章剧本，影视行业编号——场号全文连续、场次头「内/外景 地点 时间（天气）」、对白用角色名；`videos` 拍卡镜号改「场-镜」（场 2-镜 1~4）与剧本互链；租户约定补 `scripts/`
+
 - `videos/1_毛巾.md` 改名 `videos/1_2_越界的毛巾.md`（与 images 对齐），内容按拍卡重写：四拍各带时长/帧数、在场清单、镜头、验收句；一镜到底改按拍拆开跑再拼
 
 - 租户下分工作区：`quanttide-founder/workplace-romance/`（职场言情）、`quanttide-founder/rebirth-romance/`（重生言情）；README 租户约定同步
