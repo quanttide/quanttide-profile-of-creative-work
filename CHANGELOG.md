@@ -6,6 +6,8 @@
 
 ---
 
+- 租户下分工作区：`quanttide-founder/workplace-romance/`（职场言情）、`quanttide-founder/rebirth-romance/`（重生言情）；README 租户约定同步
+
 ## [Unreleased]
 
 - 初始化：量潮创意工作档案仓，含租户目录约定（README）；迁入 `quanttide-founder/` 素材（images、videos，自 quanttide-founder context）
